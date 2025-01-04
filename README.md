@@ -1,9 +1,11 @@
 # IBM-DATA-ENGINEERING-PROFESSIONAL-CERTIFICATE
 
-Master the most up-to-date practical skills and knowledge data engineers use in their daily roles
+Acquired advanced practical skills and knowledge essential for the daily responsibilities of data engineers, supported by the IBM Data Engineering Professional Certificate 16 course series from Coursera.
 
-Learn to create, design, & manage relational databases & apply database administration (DBA) concepts to RDBMSs such as MySQL, PostgreSQL, & IBM Db2 
+Relational Database Expertise: Designed, created, and managed relational databases while implementing advanced DBA concepts in systems such as MySQL, PostgreSQL, and IBM Db2.
 
-Develop working knowledge of NoSQL & Big Data using MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, and Spark Streaming 
+NoSQL and Big Data Proficiency: Gained hands-on experience with NoSQL databases and Big Data technologies, including MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, and Spark Streaming.
 
-Implement ETL & Data Pipelines with Bash, Airflow & Kafka; architect, populate, deploy Data Warehouses; create BI reports & interactive dashboards 
+ETL and Data Pipeline Development: Successfully built ETL processes and data pipelines using Bash, Airflow, and Kafka. Architected and deployed scalable data warehouses while creating impactful BI reports and interactive dashboards using Power BI.
+
+Generative AI Integration: Leveraged cutting-edge Generative AI tools to analyze complex datasets, automate workflows, and generate predictive insights for enhanced decision-making.
