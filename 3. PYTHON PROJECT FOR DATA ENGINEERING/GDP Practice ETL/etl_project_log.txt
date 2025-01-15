@@ -1,0 +1,26 @@
+2024-Mar-18-11:17:24 : Preliminaries complete. Initiating ETL process
+2024-Mar-18-11:17:27 : Data extraction complete. Initiating Transformation process
+2024-Mar-18-11:17:27 : Data transformation complete. Initiating loading process
+2024-Mar-18-11:17:27 : Data saved to CSV file
+2024-Mar-18-11:17:27 : SQL Connection initiated.
+2024-Mar-18-11:17:27 : Data loaded to Database as table. Running the query
+2024-Mar-18-11:17:27 : Process Complete.
+
+
+Task updated today_ 
+
+
+log_progress('Preliminaries complete. Initiating ETL process')
+
+df = extract(url, table_attribs)
+
+log_progress('Data extraction complete. Initiating Transformation process')
+
+
+Task updated 2:
+Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.  (comment) Error in beta file
++dsimr file need to be updated by 17.2024
+_data analysis of EDFA needs to be done too.
+
+Task updated 3:
+ Socioeconomic Indicators in Chicago _ finished
